@@ -1,0 +1,221 @@
+asset_id,asset_name,asset_type,business_unit,environment,owner,criticality,criticality_score,internet_exposed,operating_system,last_seen
+AST-00001,Customer Support-CloudVM-1,Database,HR,Production,owner7@example.com,MEDIUM,45,False,Windows 11,2026-08-08T07:33:38.249549
+AST-00002,Finance-Desktop-2,Database,HR,Development,owner39@example.com,MEDIUM,45,True,Windows Server 2022,2026-08-08T05:42:38.249549
+AST-00003,Operations-Application-3,Database,Sales,Development,owner18@example.com,HIGH,70,False,Windows 10,2026-07-31T14:52:38.249549
+AST-00004,Customer Support-Application-4,Container,Engineering,Production,owner14@example.com,HIGH,70,False,RHEL 8,2026-08-06T18:47:38.249549
+AST-00005,Finance-Container-5,Container,Operations,Staging,owner3@example.com,LOW,20,False,Windows 11,2026-08-04T06:38:38.249549
+AST-00006,Finance-CloudVM-6,Container,Operations,Production,owner5@example.com,CRITICAL,95,True,Windows Server 2022,2026-08-04T07:01:38.249549
+AST-00007,Legal-Database-7,Desktop,Sales,Staging,owner30@example.com,HIGH,70,False,RHEL 8,2026-08-07T16:35:38.249549
+AST-00008,HR-CloudVM-8,Desktop,Operations,Development,owner11@example.com,LOW,20,False,Windows Server 2022,2026-08-04T13:22:38.249549
+AST-00009,Engineering-Database-9,Container,Legal,Production,owner15@example.com,LOW,20,False,RHEL 8,2026-08-04T06:46:38.249549
+AST-00010,HR-Container-10,Database,Customer Support,Staging,owner26@example.com,MEDIUM,45,False,Amazon Linux 2,2026-08-07T20:18:38.249549
+AST-00011,HR-CloudVM-11,Application,Operations,Staging,owner24@example.com,LOW,20,True,Windows Server 2019,2026-08-07T00:15:38.249549
+AST-00012,Legal-Laptop-12,Desktop,HR,Development,owner11@example.com,MEDIUM,45,False,macOS Sonoma,2026-08-07T13:33:38.249549
+AST-00013,Sales-NetworkDevice-13,Cloud VM,Operations,Production,owner8@example.com,MEDIUM,45,False,Ubuntu 22.04,2026-08-04T05:18:38.249549
+AST-00014,Finance-CloudVM-14,Application,HR,Staging,owner1@example.com,HIGH,70,False,Ubuntu 22.04,2026-08-04T17:29:38.249549
+AST-00015,HR-Desktop-15,Cloud VM,Legal,Development,owner33@example.com,CRITICAL,95,False,Windows Server 2019,2026-07-30T22:19:38.249549
+AST-00016,Operations-Laptop-16,Container,Sales,Production,owner8@example.com,MEDIUM,45,False,Ubuntu 22.04,2026-08-06T18:16:38.249549
+AST-00017,Operations-Desktop-17,Desktop,Customer Support,Staging,owner5@example.com,LOW,20,False,Windows Server 2019,2026-08-05T20:36:38.249549
+AST-00018,Operations-Server-18,Cloud VM,Operations,Development,owner28@example.com,LOW,20,False,Windows Server 2022,2026-08-03T04:35:38.249549
+AST-00019,Customer Support-Container-19,Network Device,Operations,Staging,owner8@example.com,HIGH,70,False,Windows 11,2026-08-04T01:25:38.249549
+AST-00020,Operations-Database-20,Database,Finance,Production,owner4@example.com,LOW,20,False,Windows 10,2026-08-01T21:44:38.249549
+AST-00021,Operations-Database-21,Cloud VM,Customer Support,Staging,owner14@example.com,HIGH,70,False,Amazon Linux 2,2026-08-07T19:02:38.249549
+AST-00022,Legal-Application-22,Database,Finance,Production,owner28@example.com,LOW,20,False,macOS Sonoma,2026-08-03T05:13:38.249549
+AST-00023,Finance-Desktop-23,Laptop,Sales,Development,owner22@example.com,MEDIUM,45,False,Windows 11,2026-07-31T07:17:38.249549
+AST-00024,Operations-NetworkDevice-24,Server,Sales,Production,owner18@example.com,LOW,20,False,Windows 11,2026-08-06T10:26:38.249549
+AST-00025,Legal-Desktop-25,Laptop,Customer Support,Development,owner1@example.com,MEDIUM,45,False,Windows Server 2022,2026-07-29T19:10:38.249549
+AST-00026,Sales-Database-26,Application,Finance,Production,owner25@example.com,LOW,20,True,macOS Sonoma,2026-08-03T01:46:38.249549
+AST-00027,Legal-NetworkDevice-27,Cloud VM,Sales,Development,owner36@example.com,LOW,20,False,Amazon Linux 2,2026-07-30T16:16:38.249549
+AST-00028,HR-Laptop-28,Laptop,Customer Support,Staging,owner4@example.com,LOW,20,True,Amazon Linux 2,2026-08-05T05:21:38.249549
+AST-00029,Operations-Server-29,Laptop,Operations,Production,owner12@example.com,MEDIUM,45,True,Windows 11,2026-07-29T21:32:38.249549
+AST-00030,Sales-Desktop-30,Database,Operations,Development,owner3@example.com,MEDIUM,45,False,macOS Sonoma,2026-08-05T22:09:38.249549
+AST-00031,Operations-Container-31,Cloud VM,HR,Development,owner21@example.com,MEDIUM,45,False,macOS Sonoma,2026-08-02T04:02:38.249549
+AST-00032,Engineering-NetworkDevice-32,Container,Legal,Production,owner1@example.com,LOW,20,False,Windows 11,2026-08-01T06:07:38.249549
+AST-00033,Operations-CloudVM-33,Server,Engineering,Production,owner16@example.com,LOW,20,False,Windows Server 2019,2026-08-06T04:10:38.249549
+AST-00034,Customer Support-CloudVM-34,Laptop,Customer Support,Development,owner20@example.com,MEDIUM,45,False,Windows 11,2026-08-02T10:02:38.249549
+AST-00035,Engineering-Desktop-35,Desktop,Customer Support,Development,owner10@example.com,CRITICAL,95,False,Windows Server 2022,2026-08-07T01:42:38.249549
+AST-00036,Customer Support-CloudVM-36,Network Device,Engineering,Production,owner6@example.com,HIGH,70,False,Ubuntu 22.04,2026-08-06T06:47:38.249549
+AST-00037,Legal-Server-37,Cloud VM,HR,Development,owner29@example.com,LOW,20,False,macOS Sonoma,2026-08-04T19:18:38.249549
+AST-00038,Finance-Server-38,Laptop,Legal,Staging,owner38@example.com,MEDIUM,45,False,macOS Sonoma,2026-08-07T07:50:38.249549
+AST-00039,Engineering-Laptop-39,Container,HR,Development,owner16@example.com,LOW,20,False,RHEL 8,2026-08-05T02:12:38.249549
+AST-00040,Sales-Server-40,Database,Legal,Production,owner12@example.com,HIGH,70,False,Windows 10,2026-07-29T15:31:38.249549
+AST-00041,Legal-Application-41,Database,Engineering,Production,owner7@example.com,LOW,20,False,Windows 10,2026-08-04T19:40:38.249549
+AST-00042,HR-NetworkDevice-42,Container,Engineering,Production,owner15@example.com,HIGH,70,True,Windows Server 2022,2026-08-06T01:38:38.249549
+AST-00043,Legal-Desktop-43,Cloud VM,Engineering,Development,owner33@example.com,MEDIUM,45,False,RHEL 8,2026-08-05T10:18:38.249549
+AST-00044,Engineering-Server-44,Cloud VM,Finance,Production,owner39@example.com,CRITICAL,95,False,RHEL 8,2026-08-07T06:53:38.249549
+AST-00045,Finance-Application-45,Database,Engineering,Production,owner28@example.com,MEDIUM,45,True,Windows Server 2022,2026-08-02T18:43:38.249549
+AST-00046,Customer Support-Container-46,Container,Customer Support,Production,owner20@example.com,MEDIUM,45,False,macOS Sonoma,2026-08-07T19:16:38.249549
+AST-00047,Engineering-Server-47,Database,Sales,Development,owner25@example.com,LOW,20,False,Windows Server 2019,2026-07-31T15:59:38.249549
+AST-00048,Sales-Laptop-48,Cloud VM,Engineering,Production,owner28@example.com,MEDIUM,45,False,RHEL 8,2026-08-05T04:12:38.249549
+AST-00049,Customer Support-Database-49,Network Device,Legal,Development,owner11@example.com,MEDIUM,45,False,Ubuntu 22.04,2026-08-03T13:38:38.249549
+AST-00050,Operations-Container-50,Desktop,Legal,Production,owner20@example.com,MEDIUM,45,False,Windows Server 2022,2026-08-01T09:32:38.249549
+AST-00051,HR-NetworkDevice-51,Desktop,Sales,Staging,owner37@example.com,LOW,20,True,macOS Sonoma,2026-08-08T01:45:38.249549
+AST-00052,HR-Laptop-52,Desktop,Legal,Staging,owner15@example.com,MEDIUM,45,True,Amazon Linux 2,2026-08-05T19:45:38.249549
+AST-00053,Legal-Desktop-53,Network Device,HR,Staging,owner34@example.com,LOW,20,False,RHEL 8,2026-08-05T18:20:38.249549
+AST-00054,Operations-Application-54,Network Device,HR,Development,owner31@example.com,CRITICAL,95,False,Windows Server 2022,2026-08-03T13:31:38.249549
+AST-00055,Legal-NetworkDevice-55,Database,Engineering,Staging,owner5@example.com,HIGH,70,False,Windows Server 2022,2026-08-05T10:39:38.249549
+AST-00056,Operations-Desktop-56,Server,HR,Production,owner25@example.com,LOW,20,False,Windows Server 2022,2026-08-04T23:04:38.249549
+AST-00057,Engineering-NetworkDevice-57,Application,Finance,Production,owner27@example.com,LOW,20,False,Windows 10,2026-08-03T23:04:38.249549
+AST-00058,Operations-Application-58,Network Device,Finance,Staging,owner20@example.com,HIGH,70,False,macOS Sonoma,2026-07-30T21:19:38.249549
+AST-00059,Operations-Database-59,Network Device,HR,Staging,owner28@example.com,MEDIUM,45,False,macOS Sonoma,2026-07-31T05:46:38.249549
+AST-00060,Legal-Application-60,Server,Legal,Staging,owner9@example.com,LOW,20,False,Windows 10,2026-07-31T20:55:38.249549
+AST-00061,Operations-Laptop-61,Desktop,Customer Support,Staging,owner9@example.com,CRITICAL,95,False,Windows Server 2019,2026-08-01T20:45:38.249549
+AST-00062,Engineering-Database-62,Network Device,Engineering,Staging,owner25@example.com,LOW,20,False,macOS Sonoma,2026-08-04T06:51:38.249549
+AST-00063,Sales-Laptop-63,Laptop,Engineering,Production,owner5@example.com,LOW,20,False,Windows 10,2026-08-07T16:01:38.249549
+AST-00064,HR-Laptop-64,Server,HR,Production,owner31@example.com,HIGH,70,False,Windows Server 2022,2026-08-05T18:51:38.249549
+AST-00065,Legal-Container-65,Server,Operations,Development,owner8@example.com,MEDIUM,45,False,Windows Server 2019,2026-08-05T16:24:38.249549
+AST-00066,Operations-Laptop-66,Cloud VM,Operations,Development,owner25@example.com,CRITICAL,95,False,Windows Server 2022,2026-08-07T08:51:38.249549
+AST-00067,Legal-Database-67,Desktop,Customer Support,Staging,owner39@example.com,LOW,20,False,Windows 10,2026-07-31T17:47:38.249549
+AST-00068,Customer Support-Container-68,Desktop,Operations,Development,owner22@example.com,LOW,20,True,macOS Sonoma,2026-08-03T17:24:38.249549
+AST-00069,Sales-Container-69,Network Device,Customer Support,Production,owner28@example.com,HIGH,70,True,Ubuntu 22.04,2026-08-07T09:33:38.249549
+AST-00070,Legal-NetworkDevice-70,Network Device,Sales,Development,owner38@example.com,MEDIUM,45,False,Windows Server 2022,2026-08-02T11:25:38.249549
+AST-00071,Engineering-NetworkDevice-71,Database,Legal,Staging,owner37@example.com,HIGH,70,False,macOS Sonoma,2026-08-07T14:43:38.249549
+AST-00072,Legal-Container-72,Server,Sales,Production,owner23@example.com,LOW,20,False,RHEL 8,2026-08-02T23:24:38.249549
+AST-00073,Customer Support-CloudVM-73,Laptop,Operations,Production,owner6@example.com,LOW,20,False,macOS Sonoma,2026-08-01T19:35:38.249549
+AST-00074,HR-NetworkDevice-74,Network Device,Sales,Production,owner6@example.com,MEDIUM,45,False,macOS Sonoma,2026-07-30T23:21:38.249549
+AST-00075,Customer Support-Container-75,Network Device,Operations,Development,owner23@example.com,MEDIUM,45,False,RHEL 8,2026-08-05T02:46:38.249549
+AST-00076,Engineering-CloudVM-76,Cloud VM,HR,Production,owner13@example.com,MEDIUM,45,False,Windows Server 2019,2026-08-03T10:28:38.249549
+AST-00077,Sales-CloudVM-77,Cloud VM,Finance,Production,owner19@example.com,LOW,20,False,Windows Server 2019,2026-07-31T04:41:38.249549
+AST-00078,Operations-Server-78,Cloud VM,Finance,Production,owner36@example.com,LOW,20,False,Windows Server 2019,2026-07-31T13:02:38.249549
+AST-00079,Sales-Desktop-79,Laptop,Operations,Staging,owner31@example.com,MEDIUM,45,False,RHEL 8,2026-07-31T00:49:38.249549
+AST-00080,Engineering-NetworkDevice-80,Desktop,Legal,Production,owner26@example.com,LOW,20,False,Windows 10,2026-08-08T00:21:38.249549
+AST-00081,Operations-CloudVM-81,Desktop,HR,Production,owner36@example.com,LOW,20,False,Windows Server 2022,2026-07-30T08:53:38.249549
+AST-00082,Sales-NetworkDevice-82,Cloud VM,Legal,Development,owner28@example.com,HIGH,70,False,Windows 10,2026-08-04T06:30:38.249549
+AST-00083,Finance-Database-83,Database,Engineering,Development,owner6@example.com,MEDIUM,45,True,Windows Server 2019,2026-07-31T04:17:38.249549
+AST-00084,Finance-Application-84,Network Device,Customer Support,Development,owner31@example.com,MEDIUM,45,False,Windows Server 2022,2026-08-06T19:38:38.249549
+AST-00085,Customer Support-NetworkDevice-85,Desktop,Customer Support,Production,owner17@example.com,LOW,20,False,Windows Server 2022,2026-08-05T09:10:38.249549
+AST-00086,HR-Server-86,Cloud VM,Legal,Production,owner5@example.com,MEDIUM,45,True,Ubuntu 22.04,2026-08-02T09:40:38.249549
+AST-00087,Operations-CloudVM-87,Network Device,Finance,Staging,owner20@example.com,MEDIUM,45,False,Ubuntu 22.04,2026-07-30T05:18:38.249549
+AST-00088,Sales-Desktop-88,Laptop,Sales,Development,owner21@example.com,MEDIUM,45,False,Windows 10,2026-08-02T23:32:38.249549
+AST-00089,Legal-Laptop-89,Cloud VM,Operations,Production,owner12@example.com,LOW,20,False,Amazon Linux 2,2026-07-31T22:15:38.249549
+AST-00090,Operations-Application-90,Network Device,Finance,Staging,owner23@example.com,CRITICAL,95,False,RHEL 8,2026-08-06T12:49:38.249549
+AST-00091,HR-Container-91,Application,Customer Support,Staging,owner19@example.com,MEDIUM,45,False,macOS Sonoma,2026-07-29T20:09:38.249549
+AST-00092,Finance-NetworkDevice-92,Desktop,Engineering,Staging,owner21@example.com,HIGH,70,True,macOS Sonoma,2026-08-02T08:10:38.249549
+AST-00093,Finance-NetworkDevice-93,Application,Finance,Production,owner34@example.com,HIGH,70,False,Amazon Linux 2,2026-07-30T05:07:38.249549
+AST-00094,Finance-Database-94,Cloud VM,Operations,Production,owner19@example.com,MEDIUM,45,False,Amazon Linux 2,2026-07-30T22:51:38.249549
+AST-00095,Operations-Database-95,Server,Engineering,Development,owner1@example.com,LOW,20,False,Windows 11,2026-08-01T10:20:38.249549
+AST-00096,Finance-NetworkDevice-96,Desktop,Customer Support,Production,owner32@example.com,LOW,20,False,Ubuntu 22.04,2026-07-30T00:37:38.249549
+AST-00097,Sales-NetworkDevice-97,Network Device,HR,Staging,owner36@example.com,MEDIUM,45,True,Windows Server 2022,2026-08-05T11:43:38.249549
+AST-00098,Customer Support-Server-98,Desktop,Engineering,Staging,owner22@example.com,CRITICAL,95,False,Ubuntu 22.04,2026-08-02T19:35:38.249549
+AST-00099,Customer Support-CloudVM-99,Network Device,Legal,Production,owner29@example.com,HIGH,70,False,RHEL 8,2026-08-05T09:08:38.249549
+AST-00100,Operations-Application-100,Network Device,Engineering,Production,owner16@example.com,LOW,20,False,Windows Server 2022,2026-07-30T22:04:38.249549
+AST-00101,Finance-Container-101,Network Device,Customer Support,Staging,owner25@example.com,HIGH,70,False,Windows Server 2019,2026-08-03T22:12:38.249549
+AST-00102,HR-Container-102,Desktop,Legal,Staging,owner7@example.com,MEDIUM,45,False,Amazon Linux 2,2026-08-08T04:16:38.249549
+AST-00103,Sales-Server-103,Desktop,Sales,Staging,owner22@example.com,LOW,20,False,macOS Sonoma,2026-08-06T23:01:38.249549
+AST-00104,Engineering-Application-104,Container,Customer Support,Development,owner32@example.com,MEDIUM,45,False,Windows 10,2026-07-29T21:47:38.249549
+AST-00105,Customer Support-CloudVM-105,Database,Customer Support,Production,owner28@example.com,MEDIUM,45,False,Windows 11,2026-08-05T22:16:38.249549
+AST-00106,Engineering-Laptop-106,Laptop,Engineering,Production,owner19@example.com,MEDIUM,45,False,macOS Sonoma,2026-07-31T16:52:38.249549
+AST-00107,Sales-Server-107,Server,HR,Production,owner40@example.com,LOW,20,False,Windows Server 2022,2026-08-02T13:20:38.249549
+AST-00108,HR-Database-108,Network Device,Customer Support,Staging,owner30@example.com,MEDIUM,45,False,Windows 10,2026-08-01T23:08:38.249549
+AST-00109,Engineering-Server-109,Desktop,Sales,Staging,owner38@example.com,HIGH,70,False,macOS Sonoma,2026-08-03T07:20:38.249549
+AST-00110,Legal-CloudVM-110,Database,Sales,Staging,owner7@example.com,MEDIUM,45,False,RHEL 8,2026-08-03T09:38:38.249549
+AST-00111,Engineering-Laptop-111,Application,Engineering,Production,owner37@example.com,MEDIUM,45,False,Windows 10,2026-07-31T15:26:38.249549
+AST-00112,Sales-CloudVM-112,Database,Operations,Staging,owner15@example.com,CRITICAL,95,False,Ubuntu 22.04,2026-07-31T02:54:38.249549
+AST-00113,Legal-Server-113,Desktop,Customer Support,Development,owner3@example.com,MEDIUM,45,False,Amazon Linux 2,2026-07-31T09:31:38.249549
+AST-00114,Customer Support-Server-114,Desktop,Engineering,Staging,owner27@example.com,LOW,20,True,Windows Server 2019,2026-08-04T10:45:38.249549
+AST-00115,Engineering-CloudVM-115,Server,Engineering,Staging,owner19@example.com,HIGH,70,False,RHEL 8,2026-07-29T15:03:38.249549
+AST-00116,Finance-Server-116,Database,Legal,Development,owner26@example.com,HIGH,70,False,RHEL 8,2026-08-03T06:29:38.249549
+AST-00117,Finance-CloudVM-117,Desktop,Sales,Staging,owner17@example.com,LOW,20,False,RHEL 8,2026-08-04T02:38:38.249549
+AST-00118,Sales-Laptop-118,Container,Operations,Production,owner5@example.com,LOW,20,False,Amazon Linux 2,2026-08-05T22:32:38.249549
+AST-00119,Customer Support-Application-119,Desktop,HR,Production,owner3@example.com,CRITICAL,95,False,Amazon Linux 2,2026-08-05T03:51:38.249549
+AST-00120,Operations-Server-120,Application,Sales,Staging,owner35@example.com,LOW,20,False,Windows Server 2019,2026-08-05T22:16:38.249549
+AST-00121,Finance-NetworkDevice-121,Application,Engineering,Production,owner24@example.com,HIGH,70,True,Amazon Linux 2,2026-08-01T03:32:38.249549
+AST-00122,Engineering-Desktop-122,Container,Operations,Development,owner23@example.com,CRITICAL,95,True,Ubuntu 22.04,2026-07-29T20:47:38.249549
+AST-00123,Legal-NetworkDevice-123,Desktop,Customer Support,Production,owner39@example.com,LOW,20,False,Windows 10,2026-08-07T05:01:38.249549
+AST-00124,HR-Database-124,Desktop,Legal,Development,owner14@example.com,HIGH,70,False,Windows Server 2022,2026-08-05T19:52:38.249549
+AST-00125,Legal-Laptop-125,Cloud VM,Legal,Production,owner9@example.com,LOW,20,False,Windows Server 2019,2026-08-06T22:05:38.249549
+AST-00126,Finance-Server-126,Laptop,Engineering,Production,owner38@example.com,LOW,20,False,Windows Server 2019,2026-07-29T17:47:38.249549
+AST-00127,Customer Support-Application-127,Desktop,Customer Support,Production,owner31@example.com,LOW,20,False,RHEL 8,2026-08-07T03:46:38.249549
+AST-00128,Sales-Database-128,Laptop,Customer Support,Development,owner34@example.com,MEDIUM,45,False,Windows 10,2026-08-07T08:36:38.249549
+AST-00129,Legal-Application-129,Application,Customer Support,Production,owner32@example.com,LOW,20,False,Amazon Linux 2,2026-08-03T03:35:38.249549
+AST-00130,Engineering-Server-130,Desktop,HR,Staging,owner40@example.com,LOW,20,False,RHEL 8,2026-08-07T16:19:38.249549
+AST-00131,Operations-CloudVM-131,Network Device,Operations,Development,owner28@example.com,MEDIUM,45,True,Windows 11,2026-08-01T19:15:38.249549
+AST-00132,Legal-Database-132,Application,Sales,Production,owner27@example.com,HIGH,70,False,Amazon Linux 2,2026-08-01T04:38:38.249549
+AST-00133,Finance-Container-133,Application,Engineering,Development,owner17@example.com,MEDIUM,45,False,Windows Server 2019,2026-07-31T07:09:38.249549
+AST-00134,Finance-Desktop-134,Desktop,Finance,Staging,owner7@example.com,MEDIUM,45,False,RHEL 8,2026-08-03T04:52:38.249549
+AST-00135,Finance-Container-135,Desktop,Sales,Staging,owner28@example.com,HIGH,70,False,Windows 10,2026-08-02T06:27:38.249549
+AST-00136,Engineering-Container-136,Desktop,Operations,Development,owner14@example.com,CRITICAL,95,True,Amazon Linux 2,2026-08-01T18:25:38.249549
+AST-00137,Engineering-Container-137,Desktop,Legal,Staging,owner37@example.com,LOW,20,False,macOS Sonoma,2026-08-07T08:49:38.249549
+AST-00138,Legal-Laptop-138,Cloud VM,Finance,Production,owner18@example.com,HIGH,70,False,Ubuntu 22.04,2026-07-30T20:49:38.249549
+AST-00139,Finance-Server-139,Server,Operations,Development,owner26@example.com,CRITICAL,95,True,Windows 10,2026-08-04T14:31:38.249549
+AST-00140,HR-Application-140,Application,Sales,Staging,owner11@example.com,LOW,20,False,RHEL 8,2026-08-02T13:31:38.249549
+AST-00141,Operations-Desktop-141,Laptop,HR,Production,owner40@example.com,HIGH,70,True,Windows 11,2026-08-02T03:23:38.249549
+AST-00142,Sales-NetworkDevice-142,Network Device,Sales,Staging,owner14@example.com,LOW,20,False,Windows 11,2026-08-01T01:37:38.249549
+AST-00143,Engineering-NetworkDevice-143,Cloud VM,Finance,Production,owner26@example.com,LOW,20,False,Windows 10,2026-08-07T08:06:38.249549
+AST-00144,HR-Server-144,Cloud VM,Engineering,Staging,owner8@example.com,LOW,20,True,macOS Sonoma,2026-08-05T04:04:38.249549
+AST-00145,Operations-Database-145,Container,Finance,Staging,owner3@example.com,LOW,20,False,Amazon Linux 2,2026-08-04T06:33:38.249549
+AST-00146,Engineering-Application-146,Application,Customer Support,Development,owner27@example.com,CRITICAL,95,False,macOS Sonoma,2026-07-29T18:58:38.249549
+AST-00147,HR-NetworkDevice-147,Container,Finance,Staging,owner7@example.com,LOW,20,False,macOS Sonoma,2026-08-04T21:41:38.249549
+AST-00148,Legal-CloudVM-148,Container,HR,Staging,owner11@example.com,MEDIUM,45,True,Windows 11,2026-08-04T02:18:38.249549
+AST-00149,Legal-Container-149,Container,Customer Support,Development,owner10@example.com,MEDIUM,45,False,Windows Server 2019,2026-08-06T09:26:38.249549
+AST-00150,Operations-Server-150,Desktop,HR,Development,owner32@example.com,LOW,20,False,Amazon Linux 2,2026-08-06T15:00:38.249549
+AST-00151,Customer Support-Container-151,Container,HR,Staging,owner5@example.com,MEDIUM,45,False,Ubuntu 22.04,2026-08-02T04:14:38.249549
+AST-00152,Finance-Container-152,Desktop,Engineering,Staging,owner29@example.com,HIGH,70,True,RHEL 8,2026-08-01T20:53:38.249549
+AST-00153,Customer Support-Desktop-153,Application,Sales,Development,owner36@example.com,HIGH,70,False,Windows 10,2026-08-07T17:25:38.249549
+AST-00154,Operations-Database-154,Container,Operations,Staging,owner33@example.com,MEDIUM,45,True,Windows 10,2026-07-30T09:14:38.249549
+AST-00155,Legal-Container-155,Desktop,Operations,Development,owner12@example.com,MEDIUM,45,True,Amazon Linux 2,2026-07-30T08:56:38.249549
+AST-00156,Operations-Server-156,Container,Engineering,Staging,owner25@example.com,CRITICAL,95,False,RHEL 8,2026-08-02T15:16:38.249549
+AST-00157,Legal-Container-157,Desktop,Engineering,Production,owner36@example.com,MEDIUM,45,False,Ubuntu 22.04,2026-08-08T00:05:38.249549
+AST-00158,Customer Support-Server-158,Container,Finance,Development,owner10@example.com,LOW,20,False,Ubuntu 22.04,2026-07-29T21:50:38.249549
+AST-00159,Customer Support-Application-159,Server,Operations,Development,owner6@example.com,CRITICAL,95,False,macOS Sonoma,2026-07-31T15:39:38.249549
+AST-00160,Legal-Server-160,Desktop,Customer Support,Development,owner28@example.com,MEDIUM,45,False,Windows 10,2026-08-04T20:41:38.249549
+AST-00161,HR-Container-161,Network Device,HR,Production,owner9@example.com,MEDIUM,45,True,Ubuntu 22.04,2026-08-06T13:09:38.249549
+AST-00162,Operations-Laptop-162,Container,Legal,Development,owner9@example.com,HIGH,70,False,Windows Server 2019,2026-08-07T10:45:38.249549
+AST-00163,Customer Support-Server-163,Network Device,Finance,Staging,owner24@example.com,LOW,20,False,Windows Server 2022,2026-07-30T03:22:38.249549
+AST-00164,Engineering-NetworkDevice-164,Database,Operations,Production,owner20@example.com,CRITICAL,95,False,Amazon Linux 2,2026-08-01T15:39:38.249549
+AST-00165,Engineering-NetworkDevice-165,Network Device,Legal,Staging,owner25@example.com,CRITICAL,95,False,macOS Sonoma,2026-08-06T09:24:38.249549
+AST-00166,HR-Server-166,Cloud VM,Finance,Development,owner31@example.com,CRITICAL,95,False,Windows 11,2026-07-30T07:19:38.249549
+AST-00167,Legal-Desktop-167,Cloud VM,Finance,Production,owner18@example.com,HIGH,70,False,Windows Server 2019,2026-08-02T17:30:38.249549
+AST-00168,HR-NetworkDevice-168,Container,Finance,Staging,owner4@example.com,HIGH,70,False,RHEL 8,2026-08-07T13:20:38.249549
+AST-00169,Engineering-Database-169,Laptop,Engineering,Production,owner22@example.com,LOW,20,False,Windows Server 2019,2026-08-07T16:05:38.249549
+AST-00170,Sales-Server-170,Network Device,Sales,Development,owner1@example.com,LOW,20,False,Windows 10,2026-07-30T03:48:38.249549
+AST-00171,HR-Application-171,Desktop,Legal,Staging,owner16@example.com,LOW,20,False,Windows 10,2026-07-30T02:22:38.249549
+AST-00172,Legal-NetworkDevice-172,Desktop,Finance,Staging,owner39@example.com,LOW,20,False,Windows Server 2022,2026-08-01T07:54:38.249549
+AST-00173,Sales-Laptop-173,Container,HR,Development,owner27@example.com,HIGH,70,True,Windows 11,2026-08-05T06:50:38.249549
+AST-00174,Finance-Laptop-174,Application,Legal,Staging,owner3@example.com,MEDIUM,45,False,RHEL 8,2026-08-04T11:54:38.249549
+AST-00175,Engineering-Desktop-175,Container,HR,Development,owner7@example.com,LOW,20,False,RHEL 8,2026-08-08T09:56:38.249549
+AST-00176,Operations-Container-176,Server,Legal,Development,owner30@example.com,LOW,20,False,Amazon Linux 2,2026-08-04T14:10:38.249549
+AST-00177,HR-Desktop-177,Network Device,Finance,Staging,owner13@example.com,MEDIUM,45,True,Windows Server 2022,2026-07-30T08:47:38.249549
+AST-00178,Engineering-Application-178,Network Device,Engineering,Production,owner13@example.com,HIGH,70,False,Windows 10,2026-08-05T00:12:38.249549
+AST-00179,Engineering-Desktop-179,Container,Sales,Staging,owner29@example.com,HIGH,70,False,macOS Sonoma,2026-08-04T19:44:38.249549
+AST-00180,Sales-NetworkDevice-180,Container,Legal,Development,owner18@example.com,LOW,20,False,macOS Sonoma,2026-08-06T11:22:38.249549
+AST-00181,Legal-Server-181,Cloud VM,Engineering,Production,owner6@example.com,LOW,20,False,Ubuntu 22.04,2026-08-01T17:52:38.249549
+AST-00182,Customer Support-Application-182,Server,Customer Support,Staging,owner23@example.com,LOW,20,False,RHEL 8,2026-08-01T17:49:38.249549
+AST-00183,Engineering-Laptop-183,Desktop,Customer Support,Development,owner26@example.com,MEDIUM,45,False,Windows Server 2019,2026-08-03T15:36:38.249549
+AST-00184,Legal-NetworkDevice-184,Laptop,HR,Production,owner16@example.com,CRITICAL,95,False,RHEL 8,2026-08-06T23:23:38.249549
+AST-00185,Finance-Server-185,Network Device,Engineering,Staging,owner29@example.com,MEDIUM,45,False,Windows Server 2019,2026-08-02T03:29:38.249549
+AST-00186,Engineering-CloudVM-186,Database,Finance,Production,owner12@example.com,MEDIUM,45,False,macOS Sonoma,2026-08-04T01:41:38.249549
+AST-00187,Engineering-CloudVM-187,Network Device,HR,Development,owner19@example.com,CRITICAL,95,False,Amazon Linux 2,2026-08-07T06:13:38.249549
+AST-00188,Legal-Desktop-188,Network Device,HR,Development,owner29@example.com,LOW,20,False,RHEL 8,2026-08-07T01:19:38.249549
+AST-00189,Finance-CloudVM-189,Cloud VM,Legal,Production,owner12@example.com,MEDIUM,45,False,Windows Server 2022,2026-07-31T12:37:38.249549
+AST-00190,Legal-Server-190,Database,Legal,Staging,owner2@example.com,LOW,20,False,RHEL 8,2026-08-06T07:30:38.249549
+AST-00191,HR-Desktop-191,Desktop,Engineering,Staging,owner31@example.com,MEDIUM,45,False,macOS Sonoma,2026-08-02T07:44:38.249549
+AST-00192,HR-Container-192,Desktop,Sales,Staging,owner34@example.com,HIGH,70,False,Windows Server 2019,2026-08-07T18:14:38.249549
+AST-00193,Sales-Laptop-193,Desktop,Operations,Production,owner20@example.com,HIGH,70,True,RHEL 8,2026-08-07T03:08:38.249549
+AST-00194,Engineering-CloudVM-194,Desktop,Engineering,Production,owner36@example.com,CRITICAL,95,False,Ubuntu 22.04,2026-08-06T00:48:38.249549
+AST-00195,Operations-Server-195,Server,HR,Development,owner40@example.com,MEDIUM,45,False,RHEL 8,2026-08-07T12:52:38.249549
+AST-00196,Finance-Laptop-196,Desktop,Finance,Development,owner37@example.com,HIGH,70,False,Windows Server 2022,2026-08-02T04:28:38.249549
+AST-00197,Operations-Laptop-197,Network Device,Customer Support,Development,owner19@example.com,HIGH,70,False,Ubuntu 22.04,2026-08-03T20:37:38.249549
+AST-00198,Legal-Application-198,Cloud VM,Sales,Production,owner4@example.com,MEDIUM,45,True,macOS Sonoma,2026-07-30T10:38:38.249549
+AST-00199,Engineering-Server-199,Container,Legal,Development,owner21@example.com,MEDIUM,45,False,RHEL 8,2026-08-06T06:40:38.249549
+AST-00200,Legal-Container-200,Desktop,Engineering,Production,owner30@example.com,CRITICAL,95,True,Amazon Linux 2,2026-08-07T02:40:38.249549
+AST-00201,Finance-CloudVM-201,Application,Legal,Development,owner27@example.com,LOW,20,False,Windows Server 2019,2026-08-07T11:56:38.249549
+AST-00202,Customer Support-Container-202,Database,Legal,Production,owner32@example.com,HIGH,70,False,Amazon Linux 2,2026-08-02T00:38:38.249549
+AST-00203,Sales-Laptop-203,Desktop,Sales,Development,owner30@example.com,MEDIUM,45,False,Windows Server 2022,2026-08-05T02:07:38.249549
+AST-00204,Finance-CloudVM-204,Network Device,Operations,Development,owner31@example.com,MEDIUM,45,False,Windows 10,2026-08-08T01:05:38.249549
+AST-00205,HR-CloudVM-205,Container,Legal,Staging,owner24@example.com,HIGH,70,True,Windows 10,2026-08-03T16:42:38.249549
+AST-00206,Engineering-CloudVM-206,Desktop,Sales,Development,owner29@example.com,MEDIUM,45,False,Ubuntu 22.04,2026-08-06T09:13:38.249549
+AST-00207,Customer Support-Desktop-207,Server,Finance,Staging,owner24@example.com,HIGH,70,False,RHEL 8,2026-08-01T12:11:38.249549
+AST-00208,Legal-Server-208,Database,Operations,Development,owner26@example.com,MEDIUM,45,False,Windows 10,2026-08-04T10:32:38.249549
+AST-00209,Engineering-NetworkDevice-209,Network Device,HR,Development,owner33@example.com,LOW,20,True,RHEL 8,2026-07-31T11:31:38.249549
+AST-00210,Customer Support-CloudVM-210,Container,Operations,Development,owner35@example.com,LOW,20,False,Ubuntu 22.04,2026-08-01T14:02:38.249549
+AST-00211,Engineering-Container-211,Desktop,Sales,Development,owner20@example.com,MEDIUM,45,False,Windows 10,2026-08-08T09:50:38.249549
+AST-00212,Customer Support-Database-212,Laptop,Operations,Staging,owner11@example.com,MEDIUM,45,False,macOS Sonoma,2026-08-05T13:52:38.249549
+AST-00213,HR-Laptop-213,Desktop,HR,Production,owner29@example.com,LOW,20,False,Windows Server 2019,2026-07-31T20:29:38.249549
+AST-00214,Sales-NetworkDevice-214,Laptop,Customer Support,Production,owner34@example.com,MEDIUM,45,True,RHEL 8,2026-08-06T06:42:38.249549
+AST-00215,Operations-Application-215,Container,HR,Staging,owner35@example.com,CRITICAL,95,False,RHEL 8,2026-08-03T03:45:38.249549
+AST-00216,Customer Support-CloudVM-216,Network Device,HR,Production,owner18@example.com,MEDIUM,45,False,Windows Server 2022,2026-07-29T17:27:38.249549
+AST-00217,Legal-CloudVM-217,Database,Customer Support,Development,owner32@example.com,CRITICAL,95,False,RHEL 8,2026-08-05T05:06:38.249549
+AST-00218,Customer Support-CloudVM-218,Cloud VM,Finance,Development,owner35@example.com,MEDIUM,45,False,macOS Sonoma,2026-07-30T13:11:38.249549
+AST-00219,Legal-Server-219,Cloud VM,Finance,Staging,owner6@example.com,HIGH,70,False,Amazon Linux 2,2026-07-30T19:17:38.249549
+AST-00220,Sales-Database-220,Database,Legal,Development,owner18@example.com,MEDIUM,45,False,Ubuntu 22.04,2026-07-31T02:18:38.249549

@@ -1,0 +1,10 @@
+control_id,control_name,control_type,description,target_coverage,actual_coverage,status,implementation_date,owner
+CTRL-EDR,Endpoint Detection and Response,Detective,Endpoint Detection and Response control covering enterprise assets.,92,89.6,ACTIVE,2025-06-14,detective-team@example.com
+CTRL-MFA,Multi-Factor Authentication,Preventive,Multi-Factor Authentication control covering enterprise assets.,92,89.0,ACTIVE,2025-05-03,preventive-team@example.com
+CTRL-PATCH,Vulnerability Patching,Corrective,Vulnerability Patching control covering enterprise assets.,92,87.4,ACTIVE,2026-03-15,corrective-team@example.com
+CTRL-EMAILSEC,Email Security,Preventive,Email Security control covering enterprise assets.,90,86.3,ACTIVE,2025-04-08,preventive-team@example.com
+CTRL-FW,Firewall,Preventive,Firewall control covering enterprise assets.,98,95.6,ACTIVE,2026-01-30,preventive-team@example.com
+CTRL-BACKUP,Backup,Corrective,Backup control covering enterprise assets.,90,84.1,ACTIVE,2026-01-20,corrective-team@example.com
+CTRL-IAM,Identity Access Control,Preventive,Identity Access Control control covering enterprise assets.,98,93.4,ACTIVE,2025-08-10,preventive-team@example.com
+CTRL-CLOUDSEC,Cloud Security Monitoring,Detective,Cloud Security Monitoring control covering enterprise assets.,98,93.4,ACTIVE,2025-11-14,detective-team@example.com
+CTRL-AWARE,Security Awareness Training,Preventive,Security Awareness Training control covering enterprise assets.,95,91.9,ACTIVE,2026-03-11,preventive-team@example.com
